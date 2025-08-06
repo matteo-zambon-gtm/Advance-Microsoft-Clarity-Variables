@@ -17,6 +17,7 @@ documentation: "https://www.tagmanageritalia.it/"
 
 versions:
   # Latest Version
-  - sha: 794792b81f9f8035e51ac521253259ca47a08c32
+  - sha: c65342517d0e0eef87daac431fd8f9cf7e924e2d
     changeNotes: Create template
   # Older versions
+
